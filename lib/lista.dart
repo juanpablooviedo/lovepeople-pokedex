@@ -18,7 +18,7 @@ class _ListaState extends State<Lista> {
   bool loading = false; //* imagen animada de loading
 
   @override
-  void initState() { //* initState(), se usa para iniciar el primer metodo. llamo la api y cargo los poke antes de cualquier cosa
+  void initState() { //* initState(), se usa para iniciar el primer metodo. llamo la api y cargo los poke antes de cualquier cosa. 
     cargarPokemon();
     super.initState();
   }
