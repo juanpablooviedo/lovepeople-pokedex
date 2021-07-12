@@ -1,6 +1,6 @@
-# app_pokedex
+## lovepeople-pokedex
 
-A new Flutter project.
+lovepeople-pokedex é um app de estudo para o curso de Flutter da Love People.
 
 ## Getting Started
 
