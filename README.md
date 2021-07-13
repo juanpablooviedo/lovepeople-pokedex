@@ -1,6 +1,7 @@
 ## lovepeople-pokedex
 
-lovepeople-pokedex é um app de estudo para o curso de Flutter da Love People.
+É um app do jogo pokemon onde se pode consultar todos os pokemons e as suas caraterísticas. 
+É resultado de um projeto de estudo para o curso de Flutter da Love People.
 
 ## Getting Started
 
